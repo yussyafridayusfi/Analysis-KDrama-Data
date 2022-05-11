@@ -1,2 +1,2 @@
 # Analysis-Kpop-Data
-Learn Analysis with Kpop data using python from cleaning to insight of data
+Learn Analysis with KDrama data from mydramalist dataset (kaggle) using python from cleaning to insight of data
